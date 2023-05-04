@@ -1,0 +1,5 @@
+torch
+langchain
+wikipedia
+llama-cpp-python
+duckduckgo-search
